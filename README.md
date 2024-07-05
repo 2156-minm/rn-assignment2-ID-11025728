@@ -4,6 +4,6 @@ The task was to modify the App.js file to change the background color, display a
 Description:
 
 In this project, I modified the App.js file to change the background color to aqua,
-display the text "My name is DARKO JASMINE MAAME KONADU", increase the font size to 24, and make the name "Muheeb Nuaku" bold.
+display the text "My name is Darko Jasmine Maame Konadu", increase the font size to 24, and make the name "Darko Jasmine Maame Konadu" bold.
 
 Student ID: 11025728
